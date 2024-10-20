@@ -45,6 +45,7 @@ pip install numpy pandas matplotlib statsmodels scikit-learn tensorflow
 **3) Run the Models**:
 1) You can run each model by executing the respective Python scripts.
 2) The main script integrates all models and compares their performance.
+   
 **4) Evaluate the Results**: Metrics such as Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), and Mean Absolute Percentage Error (MAPE) are calculated for each model.Evaluate the Results: Metrics such as Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), and Mean Absolute Percentage Error (MAPE) are calculated for each model.
 ## CONCLUSION : 
 This project showcases the implementation of various forecasting techniques to address the challenge of energy consumption prediction. Each model's performance is evaluated, providing insights into the effectiveness of traditional and modern approaches.
