@@ -36,4 +36,16 @@ The enhanced SARIMA model incorporates advanced techniques to improve forecastin
 3) Continuous model evaluation and updates based on feedback loops.
 ## Usage:
 Used as the primary model for accurate energy consumption forecasts, leveraging its enhanced capabilities to adapt to changing patterns in the data.
+## How to Use the Models
+**1) Dataset Preparation**: Ensure your dataset (pre_data.csv) is in the project directory and formatted correctly.
+**2) Installation**: Make sure to install all required libraries
+```
+pip install numpy pandas matplotlib statsmodels scikit-learn tensorflow
+```
+**3) Run the Models**:
+1) You can run each model by executing the respective Python scripts.
+2) The main script integrates all models and compares their performance.
+**4) Evaluate the Results**: Metrics such as Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), and Mean Absolute Percentage Error (MAPE) are calculated for each model.Evaluate the Results: Metrics such as Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), and Mean Absolute Percentage Error (MAPE) are calculated for each model.
+## CONCLUSION : 
+This project showcases the implementation of various forecasting techniques to address the challenge of energy consumption prediction. Each model's performance is evaluated, providing insights into the effectiveness of traditional and modern approaches.
 
